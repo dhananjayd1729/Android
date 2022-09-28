@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086050214713",
+    "project_id": "docz-5c29b",
+    "storage_bucket": "docz-5c29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086050214713:android:f79299accea61c02ce3ee8",
+        "android_client_info": {
+          "package_name": "com.example.docz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086050214713-qhku59d0gi2dib87c12qcfh5ausver1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDof-EYWBmzjbEM45T75JvBcDvG4dHuros"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086050214713-qhku59d0gi2dib87c12qcfh5ausver1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
